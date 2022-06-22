@@ -3,4 +3,4 @@
 - We provide GrabCut with additional information (binarizing the original image and labeling as foreground all output black pixels) about the object of interest. This way, we help with the initial modeling of the foreground and the background of the image. 
 - We apply Gaussian Mixture Model (GMM) to create a type of additional information and then we apply Graphcut (see ``images/seg.jpg``). Although the result is better than the other two methods, still it is not exactly what you want. Therefore, we apply connected components in OpenCV to remove the small unwanted component (see ``images/obj.jpg``).
 
-# Our goal is to extract the object of the image and put it in the specified coordinate on the black background (see ``images/output.jpg``).
+### Our goal is to extract the object of the image and put it in the specified coordinate on the black background (see ``images/output.jpg``).
