@@ -79,8 +79,8 @@ def clean_image(mask, image):
 
 
 def main():
-    directory1 = 'dataset'
-    directory2 = 'processed_dataset'
+    directory1 = 'Dataset/dataset'
+    directory2 = 'Dataset/processed_dataset'
 
     for filename in os.listdir(directory1):
         print(filename)
