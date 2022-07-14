@@ -4,7 +4,7 @@
 > CNNs  are one of the most researched and top-performing architectures in the field. That being said, CNNs have a few drawbacks in recognizing features of input data when they are in different orientations. To address this problem, Geoffrey E. Hinton, together with his team Sara Sabour and Nicholas Frosst, came up with a new type of Neural Network. They called them ![Capsule Networks](https://proceedings.neurips.cc/paper/2017/file/2cad8fa47bbef282badbb8de5374b894-Paper.pdf).
 
 
-![Architecture](images/caps_mosq.png)
+![Architecture](images/caps_mosq-1.png)
 
 ## Requirements
 
