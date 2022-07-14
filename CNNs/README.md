@@ -13,7 +13,7 @@ Training for the model is done using [TorchNet](https://github.com/pytorch/tnt),
 
 
 
-(2.) [SVRNet] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8404611/pdf/JMI-008-017504.pdf)
+(2.) [SVRNet](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8404611/pdf/JMI-008-017504.pdf)
 
 ![Svrnet_image](images/svrnet.png)
 
