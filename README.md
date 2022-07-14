@@ -1,1 +1,1 @@
-# Computer-Vision---METHODS
+# Computer-Vision---CLASSIFICATION METHODS
