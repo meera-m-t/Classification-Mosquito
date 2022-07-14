@@ -1,0 +1,9 @@
+train: ../images/train/ 
+val:  ../images/val/
+#test: ../Processed_Dataset/images/test/
+
+# number of classes
+nc: 3
+
+# class names
+names: ["Aedes_albopictus", "Aedes_atlanticus", "Aedes_vexans"]
