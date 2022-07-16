@@ -1,10 +1,4 @@
-# Dynamic Routing Between Capsules
-
-A barebones CUDA-enabled PyTorch implementation of the CapsNet architecture in the paper "Dynamic Routing Between Capsules" by [Kenta Iwasaki](https://github.com/iwasaki-kenta) on behalf of Gram.AI.
-
-Training for the model is done using [TorchNet](https://github.com/pytorch/tnt), with MNIST dataset loading and preprocessing done with [TorchVision](https://github.com/pytorch/vision).
-
-## Description
+### Description
 
 >There are alot of CNN models , we choose two (1.) [VGG-16](https://arxiv.org/pdf/1409.1556.pdf) 
 
